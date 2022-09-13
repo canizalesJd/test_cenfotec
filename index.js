@@ -1,1 +1,1 @@
-console.log("Hellow World")
+let test = prompt('Add random value here')
